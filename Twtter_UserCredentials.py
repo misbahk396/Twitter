@@ -1,0 +1,5 @@
+#User credentials variables
+consumer_key = 'xgVTpvws8ti1631b4WFJO5G0M'
+consumer_secret = 'TzMdCrrZMw6oGtvk0GAxCHqMoimGdAdcRZvInuxl1b6L692uZc'
+access_token = '1273654845010882560-PQPdbIQXvmA7vHsbKl3C3YCmSn2pEB'
+access_token_secret = 'kTvBXb2jVWaPw6TcXpc9OM1JJy7bYJ2WeqC2rAoWNgjT2'
